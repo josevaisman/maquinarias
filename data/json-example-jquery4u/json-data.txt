@@ -1,0 +1,30 @@
+[
+	{
+	  "idobjeto": "1",
+	  "idtipoobjeto": "1",
+	  "item1": "1",
+	  "item2": "2",
+	  "item3": "3"
+	},
+	{
+	  "idobjeto": "2",
+	  "idtipoobjeto": "1",
+	  "item1": "1",
+	  "item2": "4",
+	  "item3": "5"
+	},
+	{
+	  "idobjeto": "3",
+	  "idtipoobjeto": "1",
+	  "item1": "2",
+	  "item2": "5",
+	  "item3": "6"
+	},
+	{
+	  "idobjeto": "3",
+	  "idtipoobjeto": "2",
+	  "item1": "1",
+	  "item2": "5",
+	  "item3": "6"
+	}
+]
