@@ -2662,6 +2662,9 @@ fieldset[disabled] .btn-danger.active {
 .btn-link {
   box-shadow: none;
 }
+.btn-link-white{
+  color: #ffffff;
+}
 .btn-round {
   border-radius: 50px;
 }
